@@ -24,7 +24,20 @@ class reverse(object):
         return ''.join(init_str)
 
     def fast_reverse_string(self, init_str):
-        return
+        init_str = [item for item in init_str]
+        if len(init_str) <= 1:
+            return ''.join(init_str)
+        p, q = 0, len(init_str) - 1
+        while p < q:
+            while (not self.is_char(init_str[p])) and (p < q):
+                p += 1
+            while (not self.is_char(init_str[q])) and (p < q):
+                q -= 1
+            if p < q:
+                init_str[p], init_str[q] = init_str[q], init_str[p]
+                p += 1
+                q -= 1
+        return ''.join(init_str)
 
     def is_char(self, tst):
         if (tst >= 'a' and tst <= 'z') or (tst >= 'A' and tst <= 'Z'):
@@ -48,7 +61,8 @@ if __name__ == '__main__':
     ]
 
     for [init_str, ans] in  check_list:
-        res = reverse().reverse_string(init_str)
+        #res = reverse().reverse_string(init_str)
+        res = reverse().fast_reverse_string(init_str)
         if ans == res:
             print('yes:', init_str)
         else:
