@@ -5,6 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="class_info_analysis" />
+    <orderEntry type="module" module-name="PDEs_by_DL" />
+    <orderEntry type="module" module-name="Atten_Deep_MIL-master" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

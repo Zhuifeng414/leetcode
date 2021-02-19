@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Atten_Deep_MIL-master/.idea/Atten_Deep_MIL-master.iml" filepath="$USER_HOME$/Downloads/Atten_Deep_MIL-master/.idea/Atten_Deep_MIL-master.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" filepath="$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/class_info_analysis/.idea/class_info_analysis.iml" filepath="$USER_HOME$/Downloads/class_info_analysis/.idea/class_info_analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
