@@ -56,9 +56,7 @@ class Solution(object):
 
     def dp_decode(self, s):
         dp = [0 for i in range(len(s))]
-        if int(s[0]) == 0:
-            return 0
-        if len(s) == 0:
+        if len(s) == 0 or int(s[0]) == 0:
             return 0
         dp[0] = self.dp_step1(s[0:])
         if len(s) >= 2:
