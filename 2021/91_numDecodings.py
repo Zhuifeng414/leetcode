@@ -36,6 +36,7 @@ class Solution(object):
         if flag == 0:
             res = []
             return []
+
     def dp_step1(self, s):
         if len(s) < 1:
             return 0
@@ -64,6 +65,7 @@ class Solution(object):
             for i in range(2, len(s)):
                 dp[i] = dp[i - 1] * self.dp_step1(s[i:]) + dp[i - 2] * self.dp_step2(s[i - 1:])
         return dp[-1]
+
 if __name__ == '__main__':
     s = "101011111111111111111111111111"
     #print(Solution().numDecodings(s))
