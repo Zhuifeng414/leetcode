@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$USER_HOME$/Documents/github/EnglishStudy/.idea/EnglishStudy.iml" filepath="$USER_HOME$/Documents/github/EnglishStudy/.idea/EnglishStudy.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" filepath="$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" />
-      <module fileurl="file://$USER_HOME$/Downloads/class_info_analysis/.idea/class_info_analysis.iml" filepath="$USER_HOME$/Downloads/class_info_analysis/.idea/class_info_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" filepath="$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
   </component>

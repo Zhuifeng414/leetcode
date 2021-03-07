@@ -2,12 +2,11 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PDEs_by_DL" />
-    <orderEntry type="module" module-name="class_info_analysis" />
     <orderEntry type="module" module-name="EnglishStudy" />
-    <orderEntry type="module" module-name="class_info_analysis" />
+    <orderEntry type="module" module-name="TextRank" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
