@@ -6,6 +6,7 @@
       <module fileurl="file://$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" filepath="$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" filepath="$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$USER_HOME$/anaconda3/envs/local_nmt/lib/python3.5/site-packages/macropodus/.idea/macropodus.iml" filepath="$USER_HOME$/anaconda3/envs/local_nmt/lib/python3.5/site-packages/macropodus/.idea/macropodus.iml" />
     </modules>
   </component>
 </project>

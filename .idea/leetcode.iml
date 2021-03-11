@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="PDEs_by_DL" />
     <orderEntry type="module" module-name="EnglishStudy" />
     <orderEntry type="module" module-name="TextRank" />
+    <orderEntry type="module" module-name="macropodus" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
