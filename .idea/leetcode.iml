@@ -8,6 +8,7 @@
     <orderEntry type="module" module-name="EnglishStudy" />
     <orderEntry type="module" module-name="TextRank" />
     <orderEntry type="module" module-name="macropodus" />
+    <orderEntry type="module" module-name="Fulu_alg" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

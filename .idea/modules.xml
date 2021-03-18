@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Documents/github/EnglishStudy/.idea/EnglishStudy.iml" filepath="$USER_HOME$/Documents/github/EnglishStudy/.idea/EnglishStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fulu_alg/.idea/Fulu_alg.iml" filepath="$PROJECT_DIR$/../Fulu_alg/.idea/Fulu_alg.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" filepath="$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" filepath="$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
