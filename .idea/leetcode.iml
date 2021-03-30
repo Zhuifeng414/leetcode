@@ -9,6 +9,10 @@
     <orderEntry type="module" module-name="TextRank" />
     <orderEntry type="module" module-name="macropodus" />
     <orderEntry type="module" module-name="Fulu_alg" />
+    <orderEntry type="module" module-name="movies-python-bolt" />
+    <orderEntry type="module" module-name="neo4j-python-pandas-py2neo-v3" />
+    <orderEntry type="module" module-name="chinese_province_city_area_mapper" />
+    <orderEntry type="module" module-name="class_info_analysis" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

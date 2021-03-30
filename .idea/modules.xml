@@ -6,8 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/../Fulu_alg/.idea/Fulu_alg.iml" filepath="$PROJECT_DIR$/../Fulu_alg/.idea/Fulu_alg.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" filepath="$USER_HOME$/Downloads/PDEs_by_DL-main/.idea/PDEs_by_DL.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" filepath="$PROJECT_DIR$/../TextRank/.idea/TextRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chinese_province_city_area_mapper/.idea/chinese_province_city_area_mapper.iml" filepath="$PROJECT_DIR$/../chinese_province_city_area_mapper/.idea/chinese_province_city_area_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grace/.idea/class_info_analysis.iml" filepath="$PROJECT_DIR$/../grace/.idea/class_info_analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$USER_HOME$/anaconda3/envs/local_nmt/lib/python3.5/site-packages/macropodus/.idea/macropodus.iml" filepath="$USER_HOME$/anaconda3/envs/local_nmt/lib/python3.5/site-packages/macropodus/.idea/macropodus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../movies-python-bolt/.idea/movies-python-bolt.iml" filepath="$PROJECT_DIR$/../movies-python-bolt/.idea/movies-python-bolt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../neo4j-python-pandas-py2neo-v3/.idea/neo4j-python-pandas-py2neo-v3.iml" filepath="$PROJECT_DIR$/../neo4j-python-pandas-py2neo-v3/.idea/neo4j-python-pandas-py2neo-v3.iml" />
     </modules>
   </component>
 </project>

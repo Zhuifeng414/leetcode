@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../chinese_province_city_area_mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../grace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../movies-python-bolt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../neo4j-python-pandas-py2neo-v3" vcs="Git" />
   </component>
 </project>
