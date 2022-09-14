@@ -5,14 +5,22 @@
     <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PDEs_by_DL" />
-    <orderEntry type="module" module-name="EnglishStudy" />
-    <orderEntry type="module" module-name="TextRank" />
-    <orderEntry type="module" module-name="macropodus" />
     <orderEntry type="module" module-name="Fulu_alg" />
-    <orderEntry type="module" module-name="movies-python-bolt" />
-    <orderEntry type="module" module-name="neo4j-python-pandas-py2neo-v3" />
-    <orderEntry type="module" module-name="chinese_province_city_area_mapper" />
+    <orderEntry type="module" module-name="test_spider" />
+    <orderEntry type="module" module-name="CCKS2021 _KG" />
+    <orderEntry type="module" module-name="prophet-master" />
+    <orderEntry type="module" module-name="user_growth_edm_sys" />
+    <orderEntry type="module" module-name="deep-ctr-master" />
+    <orderEntry type="module" module-name="DeepCTR-master" />
+    <orderEntry type="module" module-name="music-da-wiki.wiki" />
+    <orderEntry type="module" module-name="bert-as-service" />
+    <orderEntry type="module" module-name="Automated-Job-Resume-Matching-Solution-master" />
+    <orderEntry type="module" module-name="ccks2019-ckbqa-4th-codes-master" />
+    <orderEntry type="module" module-name="lgb_lr" />
     <orderEntry type="module" module-name="class_info_analysis" />
+    <orderEntry type="module" module-name="Fulu_alg" />
+    <orderEntry type="module" module-name="EnglishStudy" />
+    <orderEntry type="module" module-name="LibRecommender" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
